@@ -1,0 +1,20 @@
+{
+  "name": "eskill-email-finder",
+  "version": "1.0.0",
+  "description": "An Email Validate job",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "dependencies": {
+    "cote": "0.19.1",
+    "csv-parser": "^2.3.1",
+    "csv-writer": "^1.5.0",
+    "dns": "0.2.2",
+    "@elife/utils": "^2.1.1",
+    "fs": "0.0.1-security",
+    "net": "1.0.2"
+  },
+  "license": "ISC"
+}
